@@ -1,4 +1,7 @@
-﻿# -🔑Secure Password Generator
+﻿# -Cybersecurity treinament
+
+## 🔑Secure Password Generator
+ 
 A program that generates secure random passwords.
 
 ## Concepts
