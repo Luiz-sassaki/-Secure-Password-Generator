@@ -17,7 +17,7 @@ Password security, encryption.
 
  ## The code in practice
 
-<B>HOME SCREEN</B><br>
+
 
 <img src="/key.png" alt="home screen">
 
